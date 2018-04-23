@@ -99,4 +99,4 @@ for i, weight_matrix in enumerate(mlp.coefs_, start=1):
         lambda x: 'Neuron #%d' % x)
     print weight_matrix_df
 
-    print
+    
